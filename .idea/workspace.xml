@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566f2d4e-bf03-4492-bf0f-8dce5a83c7cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apacheerrorlognotifier.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apacheerrorlognotifier.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apacheerrorlognotifier.properties" afterPath="$PROJECT_DIR$/apacheerrorlognotifier.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apacheerrorlognotifier.xml" afterPath="$PROJECT_DIR$/apacheerrorlognotifier.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ApacheErrorLogNotifier.iws" />
@@ -85,10 +86,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
+      <file leaf-file-name="apacheerrorlognotifier.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apacheerrorlognotifier.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="21" selection-start="525" selection-end="525" vertical-scroll-proportion="0.5607477" vertical-offset="0" max-vertical-offset="1110">
+            <state line="27" column="30" selection-start="932" selection-end="932" vertical-scroll-proportion="0.576324" vertical-offset="220" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
@@ -199,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/ru/pavelpopovjava/Mailer.java" />
         <option value="$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/pavelpopovjava/ApacheErrorLogParser.java" />
+        <option value="$PROJECT_DIR$/apacheerrorlognotifier.xml" />
       </list>
     </option>
   </component>
@@ -281,20 +283,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ApacheErrorLogNotifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ApacheErrorLogNotifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -321,12 +309,12 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="false" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="false" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="apacheerrorlognotifier" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="build" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -509,7 +497,11 @@
       <created>1400929174446</created>
       <updated>1400929174446</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ant files">
+      <created>1400929965960</created>
+      <updated>1400929965960</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -549,7 +541,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -806,6 +798,13 @@
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="21" selection-start="525" selection-end="525" vertical-scroll-proportion="0.5607477" vertical-offset="0" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apacheerrorlognotifier.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="30" selection-start="932" selection-end="932" vertical-scroll-proportion="0.576324" vertical-offset="220" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
