@@ -39,7 +39,9 @@ public class Main {
             emailMessage += line + "<br>\n";
         }
 
-        Mailer.sendemail(email,"apacheErrorAbto",emailMessage,"admin@ab-to2.ru");
+        if (!emailMessage.isEmpty()){
+            Mailer.sendemail(email,"apacheErrorAbto",emailMessage,"admin@ab-to2.ru");
+        }
 
         String newLastTime;
 

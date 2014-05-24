@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="566f2d4e-bf03-4492-bf0f-8dce5a83c7cf" name="Default" comment="поправил в емэиле штуковину">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" afterPath="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" />
+    <list default="true" id="566f2d4e-bf03-4492-bf0f-8dce5a83c7cf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java" afterPath="$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java" afterPath="$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ApacheErrorLogNotifier.iws" />
@@ -89,7 +87,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="81" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.33146068" vertical-offset="407" max-vertical-offset="1125">
+            <state line="42" column="85" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.6264045" vertical-offset="317" max-vertical-offset="1155">
               <folding />
             </state>
           </provider>
@@ -706,7 +704,11 @@
       <created>1400940974585</created>
       <updated>1400940974585</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="поправил в емэиле штуковину">
+      <created>1400941903664</created>
+      <updated>1400941903664</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -776,7 +778,8 @@
     <MESSAGE value="ant files" />
     <MESSAGE value="поправки" />
     <MESSAGE value="билд анта" />
-    <option name="LAST_COMMIT_MESSAGE" value="билд анта" />
+    <MESSAGE value="поправил в емэиле штуковину" />
+    <option name="LAST_COMMIT_MESSAGE" value="поправил в емэиле штуковину" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1047,7 +1050,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="81" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.33146068" vertical-offset="407" max-vertical-offset="1125">
+        <state line="42" column="85" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.6264045" vertical-offset="317" max-vertical-offset="1155">
           <folding />
         </state>
       </provider>
