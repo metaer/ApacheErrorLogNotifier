@@ -42,7 +42,7 @@ public class Logger {
 
 
         try{
-            writeMessageToFile(selfLogFilePath, fullMessage);
+            Writer.writeMessageToFile(selfLogFilePath, fullMessage, true);
         }
         catch (IOException e){
             System.err.println("Error: " + e.getMessage());
@@ -63,14 +63,4 @@ public class Logger {
         }
     }
 
-    private static void writeMessageToFile(String path, String message) throws IOException
-    {
-        BufferedWriter out = null;
-
-        FileWriter fstream = new FileWriter(path, true); //true tells to append data.
-        out = new BufferedWriter(fstream);
-        out.write(message);
-        out.close();
-
-    }
 }
