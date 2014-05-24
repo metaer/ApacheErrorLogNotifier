@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566f2d4e-bf03-4492-bf0f-8dce5a83c7cf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apacheerrorlognotifier.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apacheerrorlognotifier.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ApacheErrorLogNotifier.iws" />
@@ -86,7 +88,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="44" selection-start="758" selection-end="758" vertical-scroll-proportion="0.7009346" vertical-offset="0" max-vertical-offset="1110">
+            <state line="18" column="21" selection-start="525" selection-end="525" vertical-scroll-proportion="0.5607477" vertical-offset="0" max-vertical-offset="1110">
               <folding />
             </state>
           </provider>
@@ -503,7 +505,11 @@
       <created>1400928757712</created>
       <updated>1400928757712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ant files">
+      <created>1400929174446</created>
+      <updated>1400929174446</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -570,7 +576,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="ant files" />
+    <option name="LAST_COMMIT_MESSAGE" value="ant files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -798,7 +805,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="44" selection-start="758" selection-end="758" vertical-scroll-proportion="0.7009346" vertical-offset="0" max-vertical-offset="1110">
+        <state line="18" column="21" selection-start="525" selection-end="525" vertical-scroll-proportion="0.5607477" vertical-offset="0" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
