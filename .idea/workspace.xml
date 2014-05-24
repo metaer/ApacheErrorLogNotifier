@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566f2d4e-bf03-4492-bf0f-8dce5a83c7cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" afterPath="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ApacheErrorLogNotifier.iws" />
@@ -84,10 +84,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EmailUtil.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EmailUtil.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="73" selection-start="907" selection-end="907" vertical-scroll-proportion="0.33146068" vertical-offset="317" max-vertical-offset="825">
+            <state line="37" column="40" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="825">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="84" selection-start="625" selection-end="625" vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="510">
+            <state line="46" column="38" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.8584906" vertical-offset="417" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -204,8 +204,8 @@
         <option value="$PROJECT_DIR$/src/ru/pavelpopovjava/Mailer.java" />
         <option value="$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java" />
         <option value="$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -835,7 +835,11 @@
       <created>1400962139339</created>
       <updated>1400962139340</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="изменилось от кого">
+      <created>1400963273594</created>
+      <updated>1400963273594</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -907,7 +911,8 @@
     <MESSAGE value="поправил в емэиле штуковину" />
     <MESSAGE value="." />
     <MESSAGE value="ридми" />
-    <option name="LAST_COMMIT_MESSAGE" value="ридми" />
+    <MESSAGE value="изменилось от кого" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменилось от кого" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1186,19 +1191,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="84" selection-start="625" selection-end="625" vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="73" selection-start="907" selection-end="907" vertical-scroll-proportion="0.33146068" vertical-offset="317" max-vertical-offset="825">
+        <state line="37" column="40" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="825">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="38" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.8584906" vertical-offset="417" max-vertical-offset="825">
+          <folding />
         </state>
       </provider>
     </entry>
