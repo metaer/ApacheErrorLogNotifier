@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566f2d4e-bf03-4492-bf0f-8dce5a83c7cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" afterPath="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ApacheErrorLogNotifier.iws" />
@@ -84,10 +84,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
+      <file leaf-file-name="EmailUtil.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+            <state line="29" column="73" selection-start="907" selection-end="907" vertical-scroll-proportion="0.33146068" vertical-offset="317" max-vertical-offset="825">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="84" selection-start="625" selection-end="625" vertical-scroll-proportion="0.3773585" vertical-offset="0" max-vertical-offset="510">
+            <state line="8" column="84" selection-start="625" selection-end="625" vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -204,8 +204,8 @@
         <option value="$PROJECT_DIR$/src/ru/pavelpopovjava/Mailer.java" />
         <option value="$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java" />
         <option value="$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java" />
-        <option value="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java" />
       </list>
     </option>
   </component>
@@ -831,7 +831,11 @@
       <created>1400961361176</created>
       <updated>1400961361176</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ридми">
+      <created>1400962139339</created>
+      <updated>1400962139340</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -863,12 +867,12 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39966834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -902,7 +906,8 @@
     <MESSAGE value="билд анта" />
     <MESSAGE value="поправил в емэиле штуковину" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="ридми" />
+    <option name="LAST_COMMIT_MESSAGE" value="ридми" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -924,7 +929,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="24" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="945">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1003,7 +1010,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="24" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="945">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1159,13 +1168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="10" selection-start="128" selection-end="128" vertical-scroll-proportion="0.25" vertical-offset="1" max-vertical-offset="825">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="24" selection-start="264" selection-end="264" vertical-scroll-proportion="0.505618" vertical-offset="0" max-vertical-offset="480">
@@ -1186,8 +1188,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="84" selection-start="625" selection-end="625" vertical-scroll-proportion="0.3773585" vertical-offset="0" max-vertical-offset="510">
+        <state line="8" column="84" selection-start="625" selection-end="625" vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="510">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="73" selection-start="907" selection-end="907" vertical-scroll-proportion="0.33146068" vertical-offset="317" max-vertical-offset="825">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
