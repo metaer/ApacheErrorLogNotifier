@@ -43,6 +43,7 @@ Getting started:
 11. В папку /var/programs/ApacheErrorLogNotifier/lib нужно залить библиотеку javax.mail-1.4.7.jar
 11. ant
 12. java -classpath /var/programs/ApacheErrorLogNotifier/lib/javax.mail-1.4.7.jar:/var/programs/ApacheErrorLogNotifier/out/production/ApacheErrorLogNotifier/ ru.pavelpopovjava.Main path/to/project_error.log user@example.com /var/programs/ApacheErrorLogNotifier/database/data.txt /var/programs/ApacheErrorLogNotifier/logs/ theme from@example.com
+13. Добавить в крон
 
 Все параметры в п.12 поменять на свои.
 

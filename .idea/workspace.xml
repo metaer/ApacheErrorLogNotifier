@@ -98,7 +98,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="38" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.8584906" vertical-offset="417" max-vertical-offset="825">
+            <state line="45" column="19" selection-start="3113" selection-end="3113" vertical-scroll-proportion="0.8113208" vertical-offset="417" max-vertical-offset="840">
               <folding />
             </state>
           </provider>
@@ -839,7 +839,11 @@
       <created>1400963273594</created>
       <updated>1400963273594</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ридми">
+      <created>1400964500057</created>
+      <updated>1400964500057</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -910,9 +914,9 @@
     <MESSAGE value="билд анта" />
     <MESSAGE value="поправил в емэиле штуковину" />
     <MESSAGE value="." />
-    <MESSAGE value="ридми" />
     <MESSAGE value="изменилось от кого" />
-    <option name="LAST_COMMIT_MESSAGE" value="изменилось от кого" />
+    <MESSAGE value="ридми" />
+    <option name="LAST_COMMIT_MESSAGE" value="ридми" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1202,7 +1206,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="38" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.8584906" vertical-offset="417" max-vertical-offset="825">
+        <state line="45" column="19" selection-start="3113" selection-end="3113" vertical-scroll-proportion="0.8113208" vertical-offset="417" max-vertical-offset="840">
           <folding />
         </state>
       </provider>
