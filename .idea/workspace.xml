@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566f2d4e-bf03-4492-bf0f-8dce5a83c7cf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ApacheErrorLogNotifier.iws" />
@@ -97,7 +98,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="26" selection-start="3436" selection-end="3436" vertical-scroll-proportion="0.9056604" vertical-offset="567" max-vertical-offset="960">
+            <state line="56" column="18" selection-start="3363" selection-end="3363" vertical-scroll-proportion="0.8584906" vertical-offset="567" max-vertical-offset="975">
               <folding />
             </state>
           </provider>
@@ -854,7 +855,11 @@
       <created>1400964732452</created>
       <updated>1400964732452</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ридми">
+      <created>1400965032112</created>
+      <updated>1400965032112</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1217,7 +1222,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="26" selection-start="3436" selection-end="3436" vertical-scroll-proportion="0.9056604" vertical-offset="567" max-vertical-offset="960">
+        <state line="56" column="18" selection-start="3363" selection-end="3363" vertical-scroll-proportion="0.8584906" vertical-offset="567" max-vertical-offset="975">
           <folding />
         </state>
       </provider>
