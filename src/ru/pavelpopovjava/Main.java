@@ -21,9 +21,10 @@ public class Main {
 
         //TODO сделать проверки на входные параметры
 
+        Logger.setLogDir(pathLogsDir);
+
         createDataFileIfNotExists(pathDataFile);
 
-        Logger.setLogDir(pathLogsDir);
         Logger.writeLog("Program starts");
 
         String lastRecordProcessedTime = getLastRecordProcessTimeFromFile(pathDataFile);
@@ -35,7 +36,7 @@ public class Main {
         String emailMessage = "";
 
         for (String line : records){
-            emailMessage += line + "<br>";
+            emailMessage += line + "<br>\n";
         }
 
         Mailer.sendemail(email,"apacheErrorAbto",emailMessage,"admin@abto2.ru");
