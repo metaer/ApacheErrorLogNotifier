@@ -18,6 +18,8 @@ public class Main {
         String email = args[1];                     //Емэил куда слать ошибки
         String pathDataFile = args[2];              //Файл с датой-временем последней обработанной записи
         String pathLogsDir = args[3];               //Директория для логов выполнения данной программы
+        String emailTheme = args[4];                //Тема письма
+        String from = args[5];                      //От кого письмо
 
         //TODO сделать проверки на входные параметры
 
@@ -36,11 +38,11 @@ public class Main {
         String emailMessage = "";
 
         for (String line : records){
-            emailMessage += line + "<br>\n";
+            emailMessage += line + "\n";
         }
 
         if (!emailMessage.isEmpty()){
-            Mailer.sendemail(email,"apacheErrorAbto",emailMessage,"admin@ab-to2.ru");
+            Mailer.sendemail(email,emailTheme,emailMessage,from);
         }
 
         String newLastTime;
