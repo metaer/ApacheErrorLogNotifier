@@ -19,7 +19,7 @@ public class SimpleEmail {
 
         Session session = Session.getInstance(props, null);
 
-        EmailUtil.sendEmail(session, emailID, theme, message);
+        EmailUtil.sendEmail(session, emailID, theme, message, from);
     }
 
 }

@@ -26,7 +26,7 @@ public class EmailUtil {
      * @param subject
      * @param body
      */
-    public static void sendEmail(Session session, String toEmail, String subject, String body){
+    public static void sendEmail(Session session, String toEmail, String subject, String body, String from){
         try
         {
             MimeMessage msg = new MimeMessage(session);
@@ -35,9 +35,9 @@ public class EmailUtil {
             msg.addHeader("format", "flowed");
             msg.addHeader("Content-Transfer-Encoding", "8bit");
 
-            msg.setFrom(new InternetAddress("no_reply@journaldev.com", "NoReply-JD"));
+            msg.setFrom(new InternetAddress(from, "javaRobot"));
 
-            msg.setReplyTo(InternetAddress.parse("no_reply@journaldev.com", false));
+            msg.setReplyTo(InternetAddress.parse(from, false));
 
             msg.setSubject(subject, "UTF-8");
 

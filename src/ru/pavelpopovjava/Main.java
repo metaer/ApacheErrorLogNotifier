@@ -39,7 +39,7 @@ public class Main {
             emailMessage += line + "<br>\n";
         }
 
-        Mailer.sendemail(email,"apacheErrorAbto",emailMessage,"admin@abto2.ru");
+        Mailer.sendemail(email,"apacheErrorAbto",emailMessage,"admin@ab-to2.ru");
 
         String newLastTime;
 
