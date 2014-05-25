@@ -90,7 +90,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="63" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.17281553" vertical-offset="436" max-vertical-offset="1005">
+            <state line="60" column="0" selection-start="3569" selection-end="3569" vertical-scroll-proportion="0.9300971" vertical-offset="421" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
@@ -750,7 +750,11 @@
       <created>1401019758142</created>
       <updated>1401019758142</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ридми">
+      <created>1401019866113</created>
+      <updated>1401019866113</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1180,7 +1184,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="63" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.17281553" vertical-offset="436" max-vertical-offset="1005">
+        <state line="60" column="0" selection-start="3569" selection-end="3569" vertical-scroll-proportion="0.9300971" vertical-offset="421" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
