@@ -84,21 +84,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="1275">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="36" column="29" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.2015504" vertical-offset="436" max-vertical-offset="990">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="Address.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/javax/mail/Address.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="18" selection-start="3363" selection-end="3363" vertical-scroll-proportion="0.8584906" vertical-offset="567" max-vertical-offset="975">
+            <state line="55" column="22" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
               <folding />
             </state>
           </provider>
@@ -134,7 +132,7 @@
       <file leaf-file-name="Session.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/javax/mail/Session.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="187" column="28" selection-start="7899" selection-end="7899" vertical-scroll-proportion="0.0" vertical-offset="1926" max-vertical-offset="18120">
+            <state line="187" column="28" selection-start="7899" selection-end="7899" vertical-scroll-proportion="0.0" vertical-offset="2805" max-vertical-offset="19290">
               <folding />
             </state>
           </provider>
@@ -143,10 +141,8 @@
       <file leaf-file-name="ApacheErrorLogParser.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/ApacheErrorLogParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="34" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-              <folding>
-                <element signature="e#689#697#0" expanded="true" />
-              </folding>
+            <state line="37" column="34" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="855">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,7 +150,7 @@
       <file leaf-file-name="Files.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/nio/file/Files.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3007" column="0" selection-start="135579" selection-end="135579" vertical-scroll-proportion="0.0" vertical-offset="44297" max-vertical-offset="46425">
+            <state line="3007" column="0" selection-start="135579" selection-end="135579" vertical-scroll-proportion="0.0" vertical-offset="45105" max-vertical-offset="47115">
               <folding />
             </state>
           </provider>
@@ -163,11 +159,8 @@
       <file leaf-file-name="Logger.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Logger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="31" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1005">
-              <folding>
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-              </folding>
+            <state line="15" column="31" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1080">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -175,7 +168,7 @@
       <file leaf-file-name="Writer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Writer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+            <state line="12" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -271,20 +264,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ApacheErrorLogNotifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ApacheErrorLogNotifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Default">
           <PATH>
@@ -458,23 +437,19 @@
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javax.mail-1.4.7-sources.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ApacheErrorLogNotifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ApacheErrorLogNotifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -509,123 +484,12 @@
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="build" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.pavelpopovjava" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree">
-    <UpdateInfo date="Moments ago" ActionInfo="_Update">
-      <UpdatedFiles>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated from server" />
-          <option name="myStatusName" value="Changed on server" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CHANGED_ON_SERVER" />
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Updated" />
-            <option name="myStatusName" value="Changed" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="UPDATED" />
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Created" />
-            <option name="myStatusName" value="Created" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="CREATED" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Deleted" />
-            <option name="myStatusName" value="Deleted" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="true" />
-            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Restored" />
-            <option name="myStatusName" value="Will be restored" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="RESTORED" />
-          </FILE-GROUP>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Modified" />
-          <option name="myStatusName" value="Modified" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MODIFIED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Skipped" />
-          <option name="myStatusName" value="Skipped" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SKIPPED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with conflicts" />
-          <option name="myStatusName" value="Will be merged with conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_CONFLICTS" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with tree conflicts" />
-          <option name="myStatusName" value="Merged with tree conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with property conflicts" />
-          <option name="myStatusName" value="Will be merged with property conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged" />
-          <option name="myStatusName" value="Will be merged" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Not in repository" />
-          <option name="myStatusName" value="Not in repository" />
-          <option name="mySupportsDeletion" value="true" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UNKNOWN" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally added" />
-          <option name="myStatusName" value="Locally added" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_ADDED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally removed" />
-          <option name="myStatusName" value="Locally removed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_REMOVED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Switched" />
-          <option name="myStatusName" value="Switched" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SWITCHED" />
-        </FILE-GROUP>
-      </UpdatedFiles>
-    </UpdateInfo>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
@@ -859,7 +723,11 @@
       <created>1400965032112</created>
       <updated>1400965032112</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ридми">
+      <created>1400965100524</created>
+      <updated>1400965100524</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -891,13 +759,11 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39966834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -907,8 +773,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -944,75 +812,64 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="9" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1080">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="24" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="945">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/com/sun/mail/auth/MD4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="23" selection-start="2872" selection-end="2872" vertical-scroll-proportion="0.0" vertical-offset="1065" max-vertical-offset="4515">
+        <state line="10" column="13" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ApacheErrorLogNotifier.iml">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+        <state line="59" column="0" selection-start="3538" selection-end="3538" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="975">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java">
+    <entry file="file://$PROJECT_DIR$/apacheerrorlognotifier.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="450">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="21" column="33" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="1275">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Mailer.java">
+    <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
+        <state line="58" column="2" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.0" vertical-offset="557" max-vertical-offset="2430">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/javax/mail/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="28" selection-start="7899" selection-end="7899" vertical-scroll-proportion="0.0" vertical-offset="2805" max-vertical-offset="19290">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/ApacheErrorLogParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="10" selection-start="1470" selection-end="1470" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="855">
-          <folding>
-            <element signature="e#689#697#0" expanded="true" />
-          </folding>
+        <state line="37" column="34" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="855">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/nio/file/Files.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3004" column="31" selection-start="135510" selection-end="135510" vertical-scroll-proportion="0.0" vertical-offset="45060" max-vertical-offset="47115">
+        <state line="3007" column="0" selection-start="135579" selection-end="135579" vertical-scroll-proportion="0.0" vertical-offset="45105" max-vertical-offset="47115">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1080">
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
+        <state line="15" column="31" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1080">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,9 +883,7 @@
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="9" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1080">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,16 +898,12 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/com/sun/mail/auth/MD4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="23" selection-start="2872" selection-end="2872" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4515">
-          <folding />
-        </state>
+        <state line="71" column="23" selection-start="2872" selection-end="2872" vertical-scroll-proportion="0.0" vertical-offset="1065" max-vertical-offset="4515" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ApacheErrorLogNotifier.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java">
@@ -1066,17 +917,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Mailer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
-          <folding />
-        </state>
+        <state line="9" column="1" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/ApacheErrorLogParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="10" selection-start="1470" selection-end="1470" vertical-scroll-proportion="0.0" vertical-offset="430" max-vertical-offset="855">
-          <folding>
-            <element signature="e#689#697#0" expanded="true" />
-          </folding>
+        <state line="45" column="10" selection-start="1470" selection-end="1470" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="855">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1090,10 +937,75 @@
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="23" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="9" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/EmailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="24" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="945">
           <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/com/sun/mail/auth/MD4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="23" selection-start="2872" selection-end="2872" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApacheErrorLogNotifier.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="33" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="450">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Mailer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/ApacheErrorLogParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="10" selection-start="1470" selection-end="1470" vertical-scroll-proportion="0.0" vertical-offset="430" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_51/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3004" column="31" selection-start="135510" selection-end="135510" vertical-scroll-proportion="0.0" vertical-offset="45060" max-vertical-offset="47115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="23" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1080">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1113,16 +1025,12 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/com/sun/mail/auth/MD4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="23" selection-start="2872" selection-end="2872" vertical-scroll-proportion="0.0" vertical-offset="122" max-vertical-offset="3885">
-          <folding />
-        </state>
+        <state line="71" column="23" selection-start="2872" selection-end="2872" vertical-scroll-proportion="0.0" vertical-offset="122" max-vertical-offset="3885" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ApacheErrorLogNotifier.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="13" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apacheerrorlognotifier.xml">
@@ -1156,9 +1064,7 @@
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/ApacheErrorLogParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="34" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="795">
-          <folding>
-            <element signature="e#689#697#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1172,10 +1078,7 @@
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="31" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1005">
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1188,9 +1091,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Mailer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="168" selection-end="177" vertical-scroll-proportion="0.33707866" vertical-offset="0" max-vertical-offset="356">
-          <folding />
-        </state>
+        <state line="8" column="32" selection-start="168" selection-end="177" vertical-scroll-proportion="0.33707866" vertical-offset="0" max-vertical-offset="356" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/journaldev/mail/SimpleEmail.java">
@@ -1214,15 +1115,20 @@
     <entry file="file://$PROJECT_DIR$/src/ru/pavelpopovjava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="13" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="1275">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/javax/mail/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="22" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="18" selection-start="3363" selection-end="3363" vertical-scroll-proportion="0.8584906" vertical-offset="567" max-vertical-offset="975">
+        <state line="36" column="29" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.2015504" vertical-offset="436" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
