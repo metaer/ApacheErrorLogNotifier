@@ -34,7 +34,7 @@ Getting started:
 2. mkdir programs
 3. cd programs
 4. git clone https://github.com/metaer/ApacheErrorLogNotifier
-4.1 cd ApacheErrorLogNotifier
+4.1. cd ApacheErrorLogNotifier
 5. mkdir database && mkdir logs
 6. sudo add-apt-repository ppa:webupd8team/java
 7. sudo apt-get update

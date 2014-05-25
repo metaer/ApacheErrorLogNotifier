@@ -90,7 +90,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="0" selection-start="3569" selection-end="3569" vertical-scroll-proportion="0.9300971" vertical-offset="436" max-vertical-offset="1005">
+            <state line="35" column="63" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.17281553" vertical-offset="436" max-vertical-offset="1005">
               <folding />
             </state>
           </provider>
@@ -99,7 +99,7 @@
       <file leaf-file-name="Address.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/lib/javax.mail-1.4.7-sources.jar!/javax/mail/Address.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="22" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1410">
+            <state line="55" column="22" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="840">
               <folding />
             </state>
           </provider>
@@ -746,7 +746,11 @@
       <created>1401019728251</created>
       <updated>1401019728251</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ридми">
+      <created>1401019758142</created>
+      <updated>1401019758142</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1176,7 +1180,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="3569" selection-end="3569" vertical-scroll-proportion="0.9300971" vertical-offset="436" max-vertical-offset="1005">
+        <state line="35" column="63" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.17281553" vertical-offset="436" max-vertical-offset="1005">
           <folding />
         </state>
       </provider>
